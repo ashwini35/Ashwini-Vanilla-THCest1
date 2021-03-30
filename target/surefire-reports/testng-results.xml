@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-30T09:01:20 CEST" name="Suite" finished-at="2021-03-30T09:02:57 CEST" duration-ms="97678">
+    <groups>
+    </groups>
+    <test started-at="2021-03-30T09:01:20 CEST" name="Test" finished-at="2021-03-30T09:02:57 CEST" duration-ms="97678">
+      <class name="com.test.OrangeHRMTest">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:19 CEST" name="BeforeSuite" finished-at="2021-03-30T09:01:20 CEST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:20 CEST" name="setup" finished-at="2021-03-30T09:01:32 CEST" duration-ms="12122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VanillaPassportLoginPage()[pri:1, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:32 CEST" name="VanillaPassportLoginPage" finished-at="2021-03-30T09:01:32 CEST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VanillaPassportLoginPage -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:33 CEST" name="tearDown" finished-at="2021-03-30T09:01:33 CEST" duration-ms="71" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VanillaPassportLoginPage status=SUCCESS method=OrangeHRMTest.VanillaPassportLoginPage()[pri:1, instance:com.test.OrangeHRMTest@575216f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:33 CEST" name="setup" finished-at="2021-03-30T09:01:44 CEST" duration-ms="11590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VanillaPassportLogin()[pri:2, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:44 CEST" name="VanillaPassportLogin" finished-at="2021-03-30T09:01:45 CEST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VanillaPassportLogin -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:46 CEST" name="tearDown" finished-at="2021-03-30T09:01:46 CEST" duration-ms="57" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VanillaPassportLogin status=SUCCESS method=OrangeHRMTest.VanillaPassportLogin()[pri:2, instance:com.test.OrangeHRMTest@575216f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:46 CEST" name="setup" finished-at="2021-03-30T09:01:57 CEST" duration-ms="11596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Vanilla3DDashboardLogin()[pri:3, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:01:57 CEST" name="Vanilla3DDashboardLogin" finished-at="2021-03-30T09:02:00 CEST" duration-ms="2969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Vanilla3DDashboardLogin -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:01 CEST" name="tearDown" finished-at="2021-03-30T09:02:01 CEST" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Vanilla3DDashboardLogin status=SUCCESS method=OrangeHRMTest.Vanilla3DDashboardLogin()[pri:3, instance:com.test.OrangeHRMTest@575216f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:01 CEST" name="setup" finished-at="2021-03-30T09:02:12 CEST" duration-ms="11628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Vanilla3DSPaceLoginTest()[pri:4, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:12 CEST" name="Vanilla3DSPaceLoginTest" finished-at="2021-03-30T09:02:16 CEST" duration-ms="4027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Vanilla3DSPaceLoginTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:17 CEST" name="tearDown" finished-at="2021-03-30T09:02:17 CEST" duration-ms="56" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Vanilla3DSPaceLoginTest status=SUCCESS method=OrangeHRMTest.Vanilla3DSPaceLoginTest()[pri:4, instance:com.test.OrangeHRMTest@575216f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:17 CEST" name="setup" finished-at="2021-03-30T09:02:28 CEST" duration-ms="11568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VanillaFedSearchMonitoringTest()[pri:5, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:28 CEST" name="VanillaFedSearchMonitoringTest" finished-at="2021-03-30T09:02:29 CEST" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VanillaFedSearchMonitoringTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:29 CEST" name="tearDown" finished-at="2021-03-30T09:02:29 CEST" duration-ms="52" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VanillaFedSearchMonitoringTest status=SUCCESS method=OrangeHRMTest.VanillaFedSearchMonitoringTest()[pri:5, instance:com.test.OrangeHRMTest@575216f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:29 CEST" name="setup" finished-at="2021-03-30T09:02:41 CEST" duration-ms="11562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VanillaFedsearchQueryStatusTest()[pri:6, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:41 CEST" name="VanillaFedsearchQueryStatusTest" finished-at="2021-03-30T09:02:44 CEST" duration-ms="3264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VanillaFedsearchQueryStatusTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:45 CEST" name="tearDown" finished-at="2021-03-30T09:02:45 CEST" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VanillaFedsearchQueryStatusTest status=SUCCESS method=OrangeHRMTest.VanillaFedsearchQueryStatusTest()[pri:6, instance:com.test.OrangeHRMTest@575216f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:45 CEST" name="setup" finished-at="2021-03-30T09:02:56 CEST" duration-ms="11569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VanillaCentralFcsTest()[pri:7, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:56 CEST" name="VanillaCentralFcsTest" finished-at="2021-03-30T09:02:57 CEST" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VanillaCentralFcsTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:57 CEST" name="tearDown" finished-at="2021-03-30T09:02:57 CEST" duration-ms="50" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VanillaCentralFcsTest status=SUCCESS method=OrangeHRMTest.VanillaCentralFcsTest()[pri:7, instance:com.test.OrangeHRMTest@575216f2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:com.test.OrangeHRMTest@575216f2]" started-at="2021-03-30T09:02:57 CEST" name="AfterSuite" finished-at="2021-03-30T09:02:58 CEST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- com.test.OrangeHRMTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
