@@ -14,10 +14,10 @@
         <protocol>http</protocol>
         
         <!-- title of the document -->
-        <documentTitle>VanillaHCTestProject</documentTitle>
+        <documentTitle>OrangeHRMProject</documentTitle>
         
         <!-- report name - displayed at top-nav -->
-        <reportName>VanillaHCTestProject Report
+        <reportName>OrangeHRMProject Report
          <![CDATA[
                 <img src='http://localhost:8080/job/Vanilla-HCTesting-1/ws/Logo/3DEXLoginCompass.png'/>
             ]]>
